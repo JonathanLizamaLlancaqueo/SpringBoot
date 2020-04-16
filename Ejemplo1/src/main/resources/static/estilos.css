@@ -1,0 +1,22 @@
+
+/*Para llamar a una clase se utiliza un (.) */
+
+.titulo{
+    text-align: center;
+    color: brown;
+    size: 50px;
+}
+
+.subTitulo{
+    text-align: center;
+}
+
+
+/* Para llamar una Id se utiliza (#) */
+
+
+#lista{
+    text-align: center;
+}
+
+
