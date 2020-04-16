@@ -1,7 +1,8 @@
 # SpringBoot
 Primeros pasos con Spring Boot
 
-Pre-requisitos 📋
+# Pre-requisitos 📋:
+
 Dependencias Spring Boot: 
 -Spring Boot DevTools
 -Spring Web
